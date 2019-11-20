@@ -7,5 +7,7 @@ public class Hello {
         System.out.println(a);
         System.out.println(b+a);
         System.out.println("Hello !!!");
+        System.out.println("Hello !!!");
+        System.out.println("Hello !!!");
     }
 }
